@@ -46,7 +46,7 @@ Upon running the application, users will be prompted to:
 
 ## Walkthrough Video
 To see a demonstration of the application, watch the walkthrough video here:
-[https://app.screencastify.com/v3/watch/8EVtZMCIjyjHxagU17VM](#) *(Replace with actual link)*
+[https://app.screencastify.com/v3/watch/eCTVi515rN1goGmxFpVQ](#) *(Replace with actual link)*
 
 
 
